@@ -1,0 +1,14 @@
+C:\Users\aapod\source\repos\MaximumPerimeterTriangle\MaximumPerimeterTriangle\obj\Debug\net8.0\MaximumPerimeterTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aapod\source\repos\MaximumPerimeterTriangle\MaximumPerimeterTriangle\obj\Debug\net8.0\MaximumPerimeterTriangle.AssemblyInfoInputs.cache
+C:\Users\aapod\source\repos\MaximumPerimeterTriangle\MaximumPerimeterTriangle\obj\Debug\net8.0\MaximumPerimeterTriangle.AssemblyInfo.cs
+C:\Users\aapod\source\repos\MaximumPerimeterTriangle\MaximumPerimeterTriangle\obj\Debug\net8.0\MaximumPerimeterTriangle.csproj.CoreCompileInputs.cache
+C:\Users\aapod\source\repos\MaximumPerimeterTriangle\MaximumPerimeterTriangle\bin\Debug\net8.0\MaximumPerimeterTriangle.exe
+C:\Users\aapod\source\repos\MaximumPerimeterTriangle\MaximumPerimeterTriangle\bin\Debug\net8.0\MaximumPerimeterTriangle.deps.json
+C:\Users\aapod\source\repos\MaximumPerimeterTriangle\MaximumPerimeterTriangle\bin\Debug\net8.0\MaximumPerimeterTriangle.runtimeconfig.json
+C:\Users\aapod\source\repos\MaximumPerimeterTriangle\MaximumPerimeterTriangle\bin\Debug\net8.0\MaximumPerimeterTriangle.dll
+C:\Users\aapod\source\repos\MaximumPerimeterTriangle\MaximumPerimeterTriangle\bin\Debug\net8.0\MaximumPerimeterTriangle.pdb
+C:\Users\aapod\source\repos\MaximumPerimeterTriangle\MaximumPerimeterTriangle\obj\Debug\net8.0\MaximumPerimeterTriangle.dll
+C:\Users\aapod\source\repos\MaximumPerimeterTriangle\MaximumPerimeterTriangle\obj\Debug\net8.0\refint\MaximumPerimeterTriangle.dll
+C:\Users\aapod\source\repos\MaximumPerimeterTriangle\MaximumPerimeterTriangle\obj\Debug\net8.0\MaximumPerimeterTriangle.pdb
+C:\Users\aapod\source\repos\MaximumPerimeterTriangle\MaximumPerimeterTriangle\obj\Debug\net8.0\MaximumPerimeterTriangle.genruntimeconfig.cache
+C:\Users\aapod\source\repos\MaximumPerimeterTriangle\MaximumPerimeterTriangle\obj\Debug\net8.0\ref\MaximumPerimeterTriangle.dll
